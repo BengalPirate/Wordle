@@ -32,9 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<iframe src="https://giphy.com/embed/jK5weMwwBiztOo4LuQ" width="228" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jK5weMwwBiztOo4LuQ">via GIPHY</a></p>
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHkwbzFxbDRmN2V6a2cxNGE5a2dqcW52MG91cm5tOG1nNW9iOThjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jK5weMwwBiztOo4LuQ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
