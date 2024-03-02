@@ -1,4 +1,4 @@
-![image](https://github.com/BengalPirate/Wordle/assets/114821633/4b0dbd6c-c60c-49b5-8805-468eab91bf50)# Android Project 1 - *Wordle*
+# Android Project 1 - *Wordle*
 
 Submitted by: **Brandon Newton**
 
