@@ -1,4 +1,4 @@
-# Android Project 1 - *Wordle*
+![image](https://github.com/BengalPirate/Wordle/assets/114821633/4b0dbd6c-c60c-49b5-8805-468eab91bf50)# Android Project 1 - *Wordle*
 
 Submitted by: **Brandon Newton**
 
@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHkwbzFxbDRmN2V6a2cxNGE5a2dqcW52MG91cm5tOG1nNW9iOThjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jK5weMwwBiztOo4LuQ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxiem5vOGhic2hydTlnZWRycmZ6dmE5aG5idG9oYXN1OHVwNmE1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ixd5HZ8GGmGg4Pm59B/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
