@@ -35,15 +35,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHkwbzFxbDRmN2V6a2cxNGE5a2dqcW52MG91cm5tOG1nNW9iOThjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jK5weMwwBiztOo4LuQ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## License
 
